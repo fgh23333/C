@@ -18,7 +18,7 @@ int main() {
     {
         if (stu[i].scole >= 80)
         {
-            printf("学号：%d\n姓名：%s\n", Student[i].num, Student[i].name);
+            printf("学号：%d\n姓名：%s\n", stu[i].num, stu[i].name);
         }
     }
     return 0;
