@@ -4,7 +4,7 @@ int main() {
     struct Student
     {
         int num;
-        float scole;
+        float score;
         char name[20];
     }
     stu[50]={
